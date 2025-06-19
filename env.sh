@@ -5,7 +5,7 @@ AWS_REGION="us-east-1"
 PARAM_PREFIX="/newmaninstitute/mongo/dev"
 
 # List of your parameters
-PARAMS="url"
+PARAMS="url name"
 
 echo "Generating .env file from Parameter Store..."
 
